@@ -40,7 +40,7 @@ export async function calculateRiskScore(transaction: TransactionData, user: Use
     riskScore += 20 // High frequency
   } else if (transactionCount >= 3) {
     riskScore += 10 // Medium frequency
-  }
+  } 
 
   // Check if recipient is new
   if (transaction.recipient_id) {
