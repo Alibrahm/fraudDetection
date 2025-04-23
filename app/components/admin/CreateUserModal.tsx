@@ -49,7 +49,7 @@ export function CreateUserModal({
     setLoading(true);
 
     const name = `${formData.first_name} ${formData.last_name}`.trim();
-
+  
     try {
       const response = await fetch("/api/admin/users", {
         method: "POST",
