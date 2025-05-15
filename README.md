@@ -112,5 +112,4 @@ Deploy with:
 Vercel – for the frontend
 Railway, Render, or Heroku – for backend + PostgreSQL
 
-📝 Author
-Nonnie Gathoni
+
