@@ -1,6 +1,7 @@
 # Vibeflow Banking System
 
 A secure banking system with advanced fraud detection for Kenyan users.
+![image](https://github.com/user-attachments/assets/768a9c33-7a95-4132-a4be-6ec6f80a7118)
 
 ## Features
 
